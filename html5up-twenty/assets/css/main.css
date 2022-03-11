@@ -1914,6 +1914,14 @@ input, select, textarea {
 			
 		}
 
+		.image.featureded img {
+			display: block;
+			margin-left: auto;
+            margin-right: auto;
+			width: 90%;
+			
+		}
+
 /* Icon */
 
 	.icon {
@@ -3377,4 +3385,10 @@ input, select, textarea {
 				height: 34px;
 			}
 
+	}
+
+	iframe{
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
 	}
